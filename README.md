@@ -1,5 +1,5 @@
 # SimplePush-Bash
-Send notification to [Simplepush.io](https://simplepush.io) using Bash
+Send notifications to [Simplepush.io](https://simplepush.io) using Bash
 
 Usage:
 ```Bash
